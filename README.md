@@ -2,4 +2,6 @@
 The Computing Challenge
 
 ## Log Entry for worksheet 01
-Familirazing with GitHub
+Familiarizing with GitHub
+
+Experiencing the WebStorm support for Git.
